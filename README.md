@@ -1,2 +1,2 @@
-# divingtonewlearnings
+# LaravelAppDirectory
 my first ever repository
